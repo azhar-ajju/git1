@@ -1,1 +1,2 @@
 line added from ec2 clone
+one more line
